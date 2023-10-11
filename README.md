@@ -1,5 +1,3 @@
-<!-- Your Name -->
-# Akbarali Toshtemirov
 
 <!-- Brief Introduction -->
 Python  developer | Automation & Scripting | Coffee Lover ☕
