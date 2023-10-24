@@ -11,7 +11,7 @@ Python Automation Enthusiast
 
 🚀 Supercharged Binance, Bybit, Kucoin, and more.
 
-💼 Proficient in APIs, Aiogram, Telethon, Telegram API, Social media bot, Scripting, Task automation, Crypto bots and robots, Forex trade automayon, Git, AWS, Postgresql, and Excel sorcery.
+💼 Proficient in APIs, Aiogram, Telethon, Telegram API, Social media bot, Scripting, Task automation, Crypto bots and robots, Forex trade automation, Git, AWS, Postgresql, and Excel sorcery.
 
 ## 🌱 I'm Currently Learning
 
